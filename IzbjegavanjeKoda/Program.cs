@@ -8,6 +8,7 @@ namespace IzbjegavanjeKoda
         {
             Program p = new Program();
             p.MetodaKojuPozivamo();
+           // p.MetodaKojuŽelimoIzbjeći();
             Console.WriteLine();
             Console.ReadKey();
         }
